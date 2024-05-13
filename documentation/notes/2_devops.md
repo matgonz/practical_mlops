@@ -34,7 +34,12 @@ Next, you source it "activate" it:
 ```
     your-repo-name-venv/Scripts/activate
 ```
+Installing libraries and create requirements.txt file
+```
+    pip install ...
+    pip freeze > requirements.txt
+```
 To deactivate:
 ```
-    deactivate
+    your-repo-name-venv/Scripts/deactivate.bat
 ```
