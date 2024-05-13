@@ -15,7 +15,7 @@ One way to look at data science versus machine learning engineering is to consid
 ```
 
 **Simple options for measuring the success of a machine learning engineering initiative at an organization**
-- First, you could count hte machine learning models that go into production.
+- First, you could count the machine learning models that go into production.
 - Second, you could measure the impact of the ML models on business ROI.
 
 These metrics culminate it are signals that predict a machine learning engineering project's success or failure.
@@ -36,7 +36,7 @@ An ML system is a software system, and software systems work efficiently and rel
 
 ![ML engineering hierarchy of needs](imgs/figure1-3.png)
 
-One of the major things back machine learning projects is this necessary foundation of DevOps. After this foundation is complete, next is data automation, then platform automation, and then finally true ML automation, or MLOps, occurs. The culmination of MLOps is a machine learning sustem that works. The people that work on operationalizing and build machine learning applications are machine learning engineers and/or data engineers.
+One of the major things back machine learning projects is this necessary foundation of DevOps. After this foundation is complete, next is data automation, then platform automation, and then finally true ML automation, or MLOps, occurs. The culmination of MLOps is a machine learning system that works. The people that work on operationalizing and build machine learning applications are machine learning engineers and/or data engineers.
 
 **DevOps** is a set of technical and management practices that aim to increase an organization's velocity in releasing high-quality software. Some of the benefits of DevOps include speed, reliability, scale, and security. These benefits occur throught adherence to the following best practices:
 - **Countinous Integration (CI)**: Is the process of continuously testing a software project and improving the quality based on these test's results. It is automated testing using open source and SaaS build servers such as GitHub Actions, Jenkins, Gitlab, CircleCI, or cloud native build systems like AWS Code Build.

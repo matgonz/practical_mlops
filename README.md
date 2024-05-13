@@ -17,4 +17,4 @@ Objectives:
 
 
 ## Summary
-- [Important Aspects of MLOps](documentation/notes/important_aspects_of_mlops.md)
+- [Important Aspects of MLOps](documentation/notes/1_important_aspects_of_mlops.md)
