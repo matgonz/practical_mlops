@@ -43,3 +43,5 @@ To deactivate:
 ```
     your-repo-name-venv/Scripts/deactivate.bat
 ```
+---
+Once this is working locally, it is straightforward to integrate this same process with a remote SaaS build server. Options include GitHub Actions, a Cloud native build server like AWS Code Build, GCP CloudBuild, Azure DevOps Pipelines, or an open-source, self-hosted build server like Jenkins.
